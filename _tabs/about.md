@@ -1,8 +1,10 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+title: About
+icon: fas fa-user
 ---
-
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hi, I'm a passionate Data Science and AI enthusiast with a background in Agricultural and Biosystems Engineering. My journey blends problem-solving, analytical thinking, and technology to create data-driven solutions that make a real-world impact.
+I specialize in:
+**Data Analysis & Visualization** – transforming raw data into actionable insights.
+**Machine Learning & AI** – building intelligent models to solve complex problems.
+**Software Development** – crafting user-focused, efficient applications.
+My goal is to leverage Data Science and AI to drive innovation, particularly in agriculture, health, and sustainable development, contributing to a smarter and more sustainable future.
